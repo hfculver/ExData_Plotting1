@@ -1,0 +1,2 @@
+The R plot scripts will need to have the variable "cpath" changed to reflect where you want to store these scripts.
+Also, you will need to retreive the source data file ("household_power_consumption.txt") manually, as it is too large to store in GitHub.
